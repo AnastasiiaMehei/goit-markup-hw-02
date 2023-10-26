@@ -1,6 +1,85 @@
 body {
-    font-family: 'Roboto';
-    background: #FFF;
+    font-family: 'Roboto', sans-serif;
+    background: #FFFFFF;
+}
+ul, li {
+    list-style-type: none;
+}
+.navigation >a {
+    text-decoration: none;
+}
+.logo {
+    color: #4D5AE5;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.1;
+    text-transform: uppercase;
+}
+.logo-studio {
+    color: #2E2F42;
+    font-size: 18px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1.1; 
+    text-transform: uppercase;
     
-
+}
+.link {
+    color: #2E2F42;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.link:hover,
+.link:focus {
+    color: #404bbf;
+}
+.contacts-information {
+    font-style: normal;
+}
+.contacts-information-links {
+    color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+    }
+    .contacts-information-links:hover,
+    .contacts-information-links:focus {
+        color: #404bbf;
+    }
+.section-one {
+    background: #2E2F42;
+}
+.section-one-tittle {
+    color: #FFF;
+    text-align: center;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 1.12px;
+}
+.section-one-button {
+    background: #4D5AE5;
+    box-shadow: 0, 0, 0, 0.15;
+    }
+.section-one-button:hover,
+.section-one-button:focus {
+    background-color: 404BBF;
+}
+.button-name {
+color: #FFF;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.5; 
+letter-spacing: 0.64px;
+}
+.section-two {
+    background: #FFF;
 }
