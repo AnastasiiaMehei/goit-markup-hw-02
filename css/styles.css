@@ -11,12 +11,18 @@ ul, li {
     }
 .logo {
     font-family: "Raleway", sans-serif;
-    color: #4D5AE5;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
+    color: #2e2f42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.15;
+    letter-spacing: 0.02em;
     text-transform: uppercase;
+}
+.logo:hover {
+    color: #404bbf;
+}
+.logo:focus {
+    color: #404bbf;
 }
 .logo-studio {
     color: #2E2F42;
@@ -26,13 +32,7 @@ ul, li {
     text-transform: uppercase;
     
 }
-.link {
-    color: #2E2F42;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
+
 .link:hover,
 .link:focus {
     color: #404bbf;
