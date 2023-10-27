@@ -11,11 +11,11 @@ ul, li {
     }
 .logo {
     font-family: "Raleway", sans-serif;
-    color: #2e2f42;
-    font-size: 16px;
-    font-weight: 500;
+    color: #4d5ae5;
+    font-size: 18px;
+    font-weight: 700;
     line-height: 1.15;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .logo:hover {
@@ -166,7 +166,7 @@ letter-spacing: 0.02em;
 }
 .logo-studio-concl {
     font-family: "Raleway", sans-serif;
-    color: #F4F4FD;
+    color: #4d5ae5;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
