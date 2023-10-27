@@ -11,10 +11,10 @@ ul, li {
     }
 .logo {
     font-family: "Raleway", sans-serif;
-    color: #4d5ae5;
+    color:#4d5ae5;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.15;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -32,7 +32,13 @@ ul, li {
     text-transform: uppercase;
     
 }
-
+.link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 .link:hover,
 .link:focus {
     color: #404bbf;
@@ -164,9 +170,18 @@ letter-spacing: 0.02em;
 .conclusion {
     background:#2E2F42;
 }
+.logo-two {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+} 
 .logo-studio-concl {
     font-family: "Raleway", sans-serif;
-    color: #4d5ae5;
+    color: #f4f4fd;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
