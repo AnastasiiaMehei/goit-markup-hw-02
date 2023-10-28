@@ -38,6 +38,7 @@ ul, li {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-decoration: none;
 }
 .link:hover,
 .link:focus {
@@ -53,6 +54,7 @@ ul, li {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-decoration: none;
     }
     .contacts-information-links:hover,
     .contacts-information-links:focus {
@@ -178,6 +180,7 @@ letter-spacing: 0.02em;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    text-decoration: none;
 } 
 .logo-studio-concl {
     font-family: "Raleway", sans-serif;
